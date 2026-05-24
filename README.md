@@ -13,10 +13,17 @@ MindPiece is a UI/UX design project focused on creating an accessibility-friendl
 - Reading-friendly typography and color palette
 - Progress tracking UI
 - Responsive layouts and modern UI components
-
-## Tools & Technologies
+- 
+- ## Tools & Technologies
 - Figma
 - UI/UX Design
 - Wireframing
 - Prototyping
+- Logo Design
+- Procreate
+
+## Project Focus
+The complete structure, UI/UX workflow, branding, logo design, layouts, and interface elements were independently conceptualized and designed by myself. The project focused on improving usability, readability, and accessibility for users with dyslexia through user-centered design principles.
+
+
 
